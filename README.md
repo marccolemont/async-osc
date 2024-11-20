@@ -1,4 +1,4 @@
-<h1 align="center">async-osc</h1>
+<h1 align="center">Rust async-osc</h1>
 <div align="center">
   <strong>
     Async Rust library for the Open Sound Control (OSC) protocol
